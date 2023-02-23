@@ -256,6 +256,9 @@ footer img{
 
 
 @media screen and (max-width:765px) {
+    .first{
+        background-repeat: no-repeat;
+    }
     .links{
         visibility: hidden;
     }
