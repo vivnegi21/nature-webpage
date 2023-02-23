@@ -257,7 +257,14 @@ footer img{
 
 @media screen and (max-width:765px) {
     .first{
+        background-blend-mode: darken;
+        background-position: 10%;
         background-repeat: no-repeat;
+        background:url('assets/asset\ 8.jpeg') rgba(0, 0, 0, 0.174) ;
+        display: block;
+        flex-direction: row;
+/*         height:87vh; */
+        width: 100%;
     }
     .links{
         visibility: hidden;
