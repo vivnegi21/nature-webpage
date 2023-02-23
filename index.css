@@ -263,7 +263,7 @@ footer img{
         background:url('assets/asset\ 8.jpeg') rgba(0, 0, 0, 0.174) ;
         display: block;
         flex-direction: row;
-/*         height:87vh; */
+        height:40vh;
         width: 100%;
     }
     .links{
